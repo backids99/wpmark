@@ -1,0 +1,2 @@
+[08-Apr-2013 09:52:21] PHP Fatal error:  Call to undefined function  get_header() in /home/membuatb/public_html/demobiz/wpmark/wp-content/themes/wpmarks/index.php on line 2
+[31-Jan-2014 13:55:08 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/membuatb/public_html/demobiz/wpmark/wp-content/themes/wpmarks/single.php on line 2
